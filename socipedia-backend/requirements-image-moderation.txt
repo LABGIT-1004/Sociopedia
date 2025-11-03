@@ -1,0 +1,17 @@
+# Image Moderation Dependencies
+# Add these to your main requirements.txt
+
+# Deep Learning & Image Processing
+tensorflow==2.20.0
+keras==3.11.3
+pillow==11.1.0
+numpy==2.2.6
+scikit-learn==1.7.0
+joblib==1.5.2
+
+# OCR for text extraction
+easyocr==1.7.2
+opencv-python-headless==4.12.0.88
+
+# Note: These are the core dependencies for image moderation
+# You may already have some of these in your main requirements.txt
